@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KSdsR4JiV80=",
+  "success": true,
+  "projectFilePath": "/Users/narayansoni/Documents/my-portfolio/backend/portfolio-backend/portfolio-backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/narayansoni/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "/Users/narayansoni/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
